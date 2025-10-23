@@ -1,1 +1,3 @@
-# Java_Project
+# Java-Project
+
+2학기 자바 프로젝트로 마인크래프트 플러그인 개발을 결심한 나.

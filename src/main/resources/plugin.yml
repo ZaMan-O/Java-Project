@@ -1,0 +1,4 @@
+name: Java_Project
+version: '1.0-SNAPSHOT'
+main: plugin.java_Project.Java_Project
+api-version: '1.21'
